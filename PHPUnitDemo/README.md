@@ -119,3 +119,24 @@ Xinchin@Nelson MINGW64 /d/RD_Work/MyRepo/PSWebBE_200909/PHPUnitDemo (master)
 $ 
 
 ```
+
+## 產生 phpunit 設定檔
+> phpunit --generate-configuration
+
+
+```
+Xinchin@Nelson MINGW64 /d/RD_Work/MyRepo/PSWebBE_200909/PHPUnitDemo (dev/home)
+$ ./vendor/bin/phpunit --generate-configuration
+PHPUnit 8.5.8 by Sebastian Bergmann and contributors.
+
+Generating phpunit.xml in D:\RD_Work\MyRepo\PSWebBE_200909\PHPUnitDemo
+
+Bootstrap script (relative to path shown above; default: vendor/autoload.php):
+Tests directory (relative to path shown above; default: tests):
+Source directory (relative to path shown above; default: src):
+
+Generated phpunit.xml in D:\RD_Work\MyRepo\PSWebBE_200909\PHPUnitDemo
+
+Xinchin@Nelson MINGW64 /d/RD_Work/MyRepo/PSWebBE_200909/PHPUnitDemo (dev/home)
+$ 
+```

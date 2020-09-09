@@ -140,3 +140,14 @@ Generated phpunit.xml in D:\RD_Work\MyRepo\PSWebBE_200909\PHPUnitDemo
 Xinchin@Nelson MINGW64 /d/RD_Work/MyRepo/PSWebBE_200909/PHPUnitDemo (dev/home)
 $ 
 ```
+
+> $ composer dump-autoload
+
+
+```
+$ composer dump-autoload
+Generated autoload files containing 579 classes
+
+Xinchin@Nelson MINGW64 /d/RD_Work/MyRepo/PSWebBE_200909/PHPUnitDemo (dev/home)
+$
+```
